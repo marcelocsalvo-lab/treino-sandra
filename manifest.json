@@ -1,0 +1,23 @@
+{
+  "name": "Treino Sandra",
+  "short_name": "Treino",
+  "description": "Treino de musculação da Sandra — Dia 1 e Dia 2",
+  "start_url": "./WorkoutSandraMobile202610101125.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0d14",
+  "theme_color": "#0a0d14",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
